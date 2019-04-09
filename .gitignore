@@ -1,0 +1,9 @@
+!*.exe
+*.log
+*.suo
+*.cache
+*.user
+bin
+obj
+.vs
+packages

@@ -26,5 +26,10 @@ namespace GZWebApplication.Models
         /// Price
         /// </summary>
         public int? Price { get; set; }
+        /// <summary>
+        /// Company.
+        /// Id Mandatory in POST and PUT.
+        /// </summary>
+        public Company Company { get; set; }
     }
 }
